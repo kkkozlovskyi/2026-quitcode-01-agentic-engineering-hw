@@ -70,7 +70,7 @@ export function BoardGrid({
         aria-label="Minefield"
         onClick={handleClick}
         onContextMenu={handleContextMenu}
-        className="mx-auto grid w-fit gap-[3px]"
+        className="mx-auto grid w-max gap-[3px]"
         style={{ gridTemplateColumns: `repeat(${cols}, minmax(0, 1fr))` }}
       >
         {board.map((row, r) =>

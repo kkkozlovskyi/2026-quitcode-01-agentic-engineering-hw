@@ -92,7 +92,7 @@ export function GameHud({
           aria-label="Difficulty"
         >
           {DIFFICULTY_ORDER.map((key) => (
-            <ToggleGroupItem key={key} value={key} className="px-3">
+            <ToggleGroupItem key={key} value={key} className="px-4">
               {DIFFICULTIES[key].label}
             </ToggleGroupItem>
           ))}

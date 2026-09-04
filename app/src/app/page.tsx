@@ -22,7 +22,7 @@ export default function Home() {
       <MinesweeperGame />
 
       <footer className="text-muted-foreground pt-2 text-xs">
-        Vibe-coded for the QuitCode “Modern Development with Agentic AI” course.
+        QuitCode · Workshop 1 · Next.js + shadcn · Marko Kozlovskyi
       </footer>
     </main>
   );
