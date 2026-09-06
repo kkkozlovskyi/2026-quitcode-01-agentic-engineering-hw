@@ -113,11 +113,12 @@ renaming the folder to drop the `:` fixes it permanently.
 | — of those, caught by build/lint | 2 |
 | — caught only by running and screenshotting | 3 |
 | A/B sub-agent cost (Task 4) | 43,611 + 41,543 tokens |
-| **Session tokens / cost** | **_fill in from your usage screen_** |
+| **Session tokens / cost** | **Opus 5 — 5.1M in / 167 out, $12.85 total (41m 25s wall, 27m 6s API)** |
 
-> The A/B numbers are exact (reported per sub-agent). The session total has to
-> come from the usage screen of the tool you ran this in — replace the last row
-> before opening the PR.
+> The A/B numbers are exact (reported per sub-agent). The session total is from
+> the tool's own usage screen for this build session (Claude Cowork, model
+> `claude-opus-5`) — the 5.1M input tokens are almost entirely prompt-cache
+> reads, not fresh context.
 
 ---
 

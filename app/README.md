@@ -1,5 +1,7 @@
 # Minesweeper — QuitCode WS1
 
+**Live demo:** https://kkkozlovskyi.github.io/2026-quitcode-01-agentic-engineering-hw/
+
 The Windows classic, rebuilt with **Next.js 16 (App Router)** and **shadcn/ui**.
 
 Three difficulties, a guaranteed-safe first click, chording, flag mode for

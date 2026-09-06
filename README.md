@@ -6,6 +6,8 @@ Agentic AI"** course.
 > Workshop 1: **Сучасний стан агентної інженерії. Від no-code до AI-розробки**
 > Автор: В'ячеслав Колдовський — Dev AI Consulting (dev-ai.dev)
 
+**Live demo:** https://kkkozlovskyi.github.io/2026-quitcode-01-agentic-engineering-hw/
+
 The first homework is deliberately simple and fun: **vibe-code a small app**
 with an AI agent, using a grown-up design system for the UI (we recommend the
 open [Porsche Design System](https://designsystem.porsche.com/)) — then write
